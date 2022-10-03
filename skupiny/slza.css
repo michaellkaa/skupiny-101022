@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+    
+}
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.main h1 {
+    font-size: 55px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.main a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.main p { 
+    margin: 30px 350px 30px 350px;
+}
+
+.main img {
+    height: auto;
+    width: 180px;
+    margin: 20px;
+}
+
+.main h2 {
+    font-size: 35px;
+}
